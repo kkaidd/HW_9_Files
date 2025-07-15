@@ -1,0 +1,16 @@
+{
+  "name": "Иван",
+  "email": "ivan@example.com",
+  "orders": [
+    {
+      "id": 101,
+      "product": "Ноутбук",
+      "price": 85000
+    },
+    {
+      "id": 102,
+      "product": "Мышка",
+      "price": 1500
+    }
+  ]
+}
